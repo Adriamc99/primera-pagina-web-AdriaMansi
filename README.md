@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-Adrià Mansilla
+Aquest és el primer projecte d'Adrià Mansilla
 </Head>
 <body>
 </body>
